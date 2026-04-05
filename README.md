@@ -1,193 +1,142 @@
 <h1 align="center">Hi 👋, I'm Priyam Gupta</h1>
-<h3 align="center">🚀 Aspiring Software Development Engineer | Full-Stack Developer | Backend Enthusiast | Competitive Programmer</h3>
+<h3 align="center">Software Development Enthusiast | Backend & Full-Stack Developer | CSE Undergraduate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Aspiring+SDE+%7C+Backend+Developer;Full-Stack+Developer+%7C+AWS+Learner;DSA+%7C+Java+%7C+C%2B%2B+%7C+Python;Building+Projects+That+Actually+Solve+Problems" alt="Typing SVG" />
+  <a href="https://github.com/justpriyam">
+    <img src="https://komarev.com/ghpvc/?username=justpriyam&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
 </p>
 
 ---
 
-## 🌟 About Me
+## 👨‍💻 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🎓 B.Tech CSE Student at **Graphic Era Hill University, Bhimtal**
-- 📍 Based in **Haldwani, Uttarakhand, India**
-- 💼 Currently looking for **SDE Internship / Entry-Level Opportunities**
-- 💻 Passionate about **Backend Systems, Full-Stack Development, Cloud, and Compiler-Based Applications**
-- 🧠 Strong in **DSA, OOP, Multithreading, DBMS, OS, and Compiler Design**
-- ☁️ Exploring **AWS Cloud & scalable application development**
-- 🔥 Solved **250+ coding problems** on coding platforms
-- 🎯 Goal: Build impactful software and grow into a strong **Software Engineer**
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts,html,css" />
-</p>
-
-### ⚙️ Web / Backend / Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
-</p>
-
-### ☁️ Cloud / Tools / Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,idea" />
-</p>
-
-### 📚 Core CS
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- Multithreading  
-- DBMS  
-- Operating Systems  
-- Compiler Design  
-- Lex / Parsing / Semantic Analysis  
-- REST APIs / Authentication  
+- 🎓 B.Tech in **Computer Science Engineering** at **Graphic Era Hill University, Bhimtal**
+- 📍 From **Haldwani, Uttarakhand, India**
+- 💼 Looking for **SDE Internship / Entry-Level Software Roles**
+- 💡 Interested in **Backend Development, Full-Stack Systems, Cloud Computing, and Core CS**
+- 🧠 Strong foundation in:
+  - Data Structures & Algorithms
+  - OOP
+  - DBMS
+  - Operating Systems
+  - Compiler Design
+  - Multithreading
+- ☁️ Currently exploring **AWS and scalable backend systems**
+- 🚀 Passionate about building practical, real-world software solutions
 
 ---
 
-## 🚀 Featured Projects
+## 🛠 Technical Skills
 
-### 🩺 AyuNet – Telemedicine Platform
-> Full-stack telemedicine platform with **AI-based symptom analysis** and **role-based portals**.
+### Languages
+`Java` `C` `C++` `Python` `JavaScript` `TypeScript`
 
-- 🔹 Built scalable backend workflows for consultations & records
-- 🔹 Designed normalized SQL schema
-- 🔹 Focused on usability + structured medical workflows
+### Core Computer Science
+`DSA` `OOP` `DBMS` `OS` `Multithreading` `Compiler Design`
 
-🔗 **Repo:** [AyuNet](https://github.com/justpriyam)
+### Development
+`Full-Stack Development` `REST APIs` `Authentication`
 
----
+### Database
+`MySQL` `MongoDB`
 
-### 🧾 Source Code Plagiarism Detector
-> A **compiler-based plagiarism detection system** for source code.
-
-- 🔹 Used **Lexical Analysis**
-- 🔹 Applied **token comparison & syntax-based similarity**
-- 🔹 Built using **C + Lex**
-- 🔹 Great blend of **compiler design + practical problem solving**
-
-🔗 **Repo:** [Source Code Plagiarism Detector](https://github.com/justpriyam)
+### Cloud & Tools
+`AWS EC2` `AWS S3` `AWS IAM` `Git` `GitHub` `VS Code` `IntelliJ IDEA`
 
 ---
 
-### 🌐 Multithreaded Web Server
-> Java-based HTTP server using **socket programming** and **multithreading**.
+## 🚀 Projects
 
-- 🔹 Concurrent client handling
-- 🔹 Improved throughput using multithreaded architecture
-- 🔹 Built to strengthen backend/system-level understanding
+### 1) AyuNet – Telemedicine Platform
+A full-stack telemedicine platform featuring **AI-based symptom analysis** and **role-based portals** for efficient consultation workflows.
 
-🔗 **Repo:** [Multithreaded Web Server](https://github.com/justpriyam)
-
----
-
-### ✋ Gesture Pointer
-> Computer vision-based hand gesture system to control mouse operations.
-
-- 🔹 Real-time gesture recognition
-- 🔹 Built using **Python + OpenCV**
-- 🔹 Explores interaction between AI and user control systems
-
-🔗 **Repo:** [Gesture Pointer](https://github.com/justpriyam)
+**Tech Used:** Full-Stack, SQL, Backend Systems  
+🔗 [GitHub Repository](https://github.com/justpriyam)
 
 ---
 
-## 🏆 Achievements & Highlights
+### 2) Source Code Plagiarism Detector
+A compiler-based system for detecting source code similarity using **lexical analysis**, **token comparison**, and **syntax-based logic**.
 
-- 🧠 Solved **250+ DSA problems**
-- ☁️ Certified in **AWS Cloud Practitioner Essentials**
-- 🛡️ Completed **AWS Cloud Quest** *(Compute, Storage, Security)*
-- 📘 Completed **NPTEL: DSA & DBMS**
-- 🐍 Completed **IBM Python for Data Science & Generative AI**
-- 🚀 Participated in:
-  - **SIH Internal Hackathon**
-  - **NASA Program Hackathon**
-  - **Astroverse Hackathon**
-  - **Unstop Hackathons** *(Tata Steel, Reliance, NETC)*
+**Tech Used:** C, Lex, Compiler Design  
+🔗 [GitHub Repository](https://github.com/justpriyam)
 
 ---
 
-## 👨‍💼 Leadership & Responsibilities
+### 3) Multithreaded Web Server
+A Java-based HTTP server using **socket programming** and **multithreading** to handle multiple client requests efficiently.
 
-- 🎨 **Head of Design** — World Webs Club
-- 📌 **Head, Student Placement Committee (GEHU)**
-- 🌌 **Managing Director** — Astroverse Club
-- 🤝 **NSS Volunteer** for 3 years
+**Tech Used:** Java, Networking, Multithreading  
+🔗 [GitHub Repository](https://github.com/justpriyam)
+
+---
+
+### 4) Gesture Pointer
+A computer vision project to control mouse operations using **real-time hand gestures**.
+
+**Tech Used:** Python, OpenCV  
+🔗 [GitHub Repository](https://github.com/justpriyam)
+
+---
+
+## 🏅 Certifications & Learning
+
+- AWS Cloud Practitioner Essentials
+- AWS Cloud Quest *(Compute, Storage, Security)*
+- NPTEL: Data Structures and Algorithms
+- NPTEL: DBMS
+- IBM Python for Data Science & Generative AI
+
+---
+
+## 🏆 Leadership & Activities
+
+- **Head of Design** — World Webs Club
+- **Head, Student Placement Committee (GEHU)**
+- **Managing Director** — Astroverse Club
+- **NSS Volunteer** — Active for 3 years
+
+---
+
+## 💻 Competitive Programming
+
+- Solved **250+ coding problems**
+- Active on **LeetCode, Codeforces, HackerRank, and other coding platforms**
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justpriyam&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justpriyam&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=justpriyam&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justpriyam&theme=default&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justpriyam&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🧩 Coding Profiles
-
-<p align="left">
-  <a href="YOUR_LEETCODE_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="YOUR_CODEFORCES_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="YOUR_HACKERRANK_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justpriyam&layout=compact&hide_border=true" height="165" />
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced **Backend Development**
-- **System Design Basics**
-- **AWS Cloud Services**
-- Better **problem solving for coding interviews**
-- Writing cleaner and more scalable code
+- Backend scalability
+- Cloud deployment
+- Better system-level problem solving
+- Interview-focused DSA
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/priyam-gupta" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Priyam%20Gupta-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:priyamgupta183@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-priyamgupta183%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/justpriyam" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-justpriyam-black?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+- **GitHub:** [justpriyam](https://github.com/justpriyam)
+- **LinkedIn:** [Priyam Gupta](https://linkedin.com/in/priyam-gupta)
+- **Email:** [priyamgupta183@gmail.com](mailto:priyamgupta183@gmail.com)
+- **Portfolio:** [Visit Portfolio](YOUR_PORTFOLIO_LINK)
 
 ---
 
-## ✨ Fun Developer Quote
+## 📌 Developer Note
 
-> **"Code. Learn. Build. Repeat."** 🚀
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=justpriyam&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+> I enjoy building software that combines **problem solving, system thinking, and practical implementation**.
